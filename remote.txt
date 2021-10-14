@@ -3,3 +3,5 @@ remote line 1
 Hello
 
 line added from remote
+
+Nice to meet you
